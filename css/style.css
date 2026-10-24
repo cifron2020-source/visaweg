@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+  line-height: 1.6;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav button {
+  padding: 0.4rem 0.8rem;
+  margin-left: 0.3rem;
+  cursor: pointer;
+}
+footer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #555;
+}
